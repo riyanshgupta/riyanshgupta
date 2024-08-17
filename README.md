@@ -1,11 +1,12 @@
 <h1 align="center">Hi there👋, My name is Riyansh Gupta</h1>
 <h3 align="center">A passionate Full-stack developer from India (In)</h3>
-
+![original-8aa73bf0a692e27a21cd6d5847dd6916](https://github.com/user-attachments/assets/dca536f5-b15f-4d2c-b391-9aef73d47f34)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="riyanshgupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanshgupta" alt="riyanshgupta" /></a> </p>
 
 - 🔭 I’m currently working on **Avowal**
+
 
 - 🌱 I’m currently learning **ReactJS, FastAPI and manymore**
 
@@ -16,7 +17,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DxFbm99xgxpztl6LPm8he-v9mgh7ovIf/view?usp=drive_link](https://drive.google.com/file/d/1DxFbm99xgxpztl6LPm8he-v9mgh7ovIf/view?usp=drive_link)
 
 - ⚡ Fun fact **my codes are also funny sometimes, try reading it.**
-<p align="left"> <img src="https://cdn.dribbble.com/userupload/4274868/file/original-8aa73bf0a692e27a21cd6d5847dd6916.gif" alt="loading" width="100" height="50" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/riyanshgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyanshgupta" height="30" width="40" /></a>
