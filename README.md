@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Avowal**
 
-- 🌱 I’mw currently learning **ReactJS, FastAPI and manymore**
+- 🌱 I’m currently learning **ReactJS, FastAPI and many more**
 
 - 💬 Ask me about **Django, Flask, SQL, C++, Python, Javascript**
 
