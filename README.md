@@ -1,7 +1,8 @@
 <h1 align="center">Hi there👋, My name is Riyansh Gupta</h1>
 <h3 align="center">A passionate Full-stack developer from India (In)</h3>
 
-<img src="https://cdn.dribbble.com/userupload/4274868/file/original-8aa73bf0a692e27a21cd6d5847dd6916.gif" alt="" width="100" height="50" align="left">
+<p align="left"> <img src="https://cdn.dribbble.com/userupload/4274868/file/original-8aa73bf0a692e27a21cd6d5847dd6916.gif" alt="" width="100" height="50"/></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="riyanshgupta" /> </p>
 
