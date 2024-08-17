@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, My name is Riyansh Gupta</h1>
-<h3 align="center">A passionate Full-stack developer from India (In)</h3>
+<h3 align="center">A passionate Full-stack developer and a Competitive Programmer from India (In)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="riyanshgupta" /> </p>
 
