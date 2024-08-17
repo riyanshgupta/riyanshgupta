@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="riyanshgupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanshgupta" alt="riyanshgupta" /></a> </p>
-<p align="right"> <img src="https://cdn.dribbble.com/users/508588/screenshots/11263724/media/ab902378a94b3a249b0a8c3a3cff1385.jpg?resize=1000x750&vertical=center"/></p>
+<p align="right"> <img src="https://cdn.dribbble.com/users/508588/screenshots/11263724/media/ab902378a94b3a249b0a8c3a3cff1385.jpg?resize=400x300&vertical=center"/></p>
 - 🔭 I’m currently working on **Avowal**
 
 - 🌱 I’m currently learning **ReactJS, FastAPI and manymore**
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **riyanshgupta750@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DxFbm99xgxpztl6LPm8he-v9mgh7ovIf/view?usp=drive_link](https://drive.google.com/file/d/1DxFbm99xgxpztl6LPm8he-v9mgh7ovIf/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DxFbm99xgxpztl6LPm8he-v9mgh7ovIf/view?usp=drive_link](here)
 
 - ⚡ Fun fact **my codes are also funny sometimes, try reading it.**
 
