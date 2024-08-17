@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **riyanshgupta750@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DxFbm99xgxpztl6LPm8he-v9mgh7ovIf/view?usp=drive_link](here)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1DxFbm99xgxpztl6LPm8he-v9mgh7ovIf/view?usp=drive_link)
 
 - ⚡ Fun fact **my codes are also funny sometimes, try reading it.**
 
