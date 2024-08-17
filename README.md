@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="riyanshgupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanshgupta" alt="riyanshgupta" /></a> </p>
-<p align="right"> <img src="https://cdn.dribbble.com/users/508588/screenshots/11263724/media/ab902378a94b3a249b0a8c3a3cff1385.jpg?resize=400x300&vertical=center"/></p>
+<img align="right" src="https://cdn.dribbble.com/users/508588/screenshots/11263724/media/ab902378a94b3a249b0a8c3a3cff1385.jpg?resize=400x300&vertical=center"/>
+
 - 🔭 I’m currently working on **Avowal**
 
 - 🌱 I’m currently learning **ReactJS, FastAPI and manymore**
