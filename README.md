@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, My name is Riyansh Gupta</h1>
 <h3 align="center">A passionate Full-stack developer from India (In)</h3>
-![original-8aa73bf0a692e27a21cd6d5847dd6916](https://github.com/user-attachments/assets/dca536f5-b15f-4d2c-b391-9aef73d47f34)
+https://github.com/user-attachments/assets/dca536f5-b15f-4d2c-b391-9aef73d47f34
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="riyanshgupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanshgupta" alt="riyanshgupta" /></a> </p>
