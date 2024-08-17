@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="riyanshgupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanshgupta" alt="riyanshgupta" /></a> </p>
-<img align="right" src="https://cdn.dribbble.com/users/2269119/screenshots/18884777/media/4a0905c541c2e1d12e0f0a1e87d01eed.png?resize=450x350&vertical=center" style="border-radius:30% 70% 70% 30% / 30% 30% 70% 70%"/>
+<img align="right" src="https://cdn.dribbble.com/users/2269119/screenshots/18884777/media/4a0905c541c2e1d12e0f0a1e87d01eed.png?resize=450x350&vertical=center" style="border-radius:30%70%70%30%/30%30%70%70%"/>
 
 - 🔭 I’m currently working on **Avowal**
 
-- 🌱 I’m currently learning **ReactJS, FastAPI and manymore**
+- 🌱 I’mw currently learning **ReactJS, FastAPI and manymore**
 
 - 💬 Ask me about **Django, Flask, SQL, C++, Python, Javascript**
 
